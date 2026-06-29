@@ -1,0 +1,17 @@
+Script de vendas voltado para vendedores iniciantes.
+
+
+Intenção:
+Sou Gerente de Vendas na Heineken e desejo aumentar em até 20% o volume de vendas da minha área nos próximos 3 meses. Para isso, pretendo desenvolver um script de vendas voltado para vendedores iniciantes.
+
+Detalhes:
+O script deve contemplar todas as etapas do processo de vendas (prospecção, qualificação, apresentação, proposta, negociação, fechamento e pós-venda). Essas vendas são realizadas diretamente em Pontos de Venda (PDVs) localizados em Salvador.
+
+Exemplos:
+O material deve estar estruturado de forma clara, abrangendo todas as etapas do processo de vendas: prospecção, qualificação, apresentação, proposta, negociação, fechamento e pós-venda.
+
+Ação:
+Estruturar um script de vendas direcionado a vendedores iniciantes (com pouca ou nenhuma experiência), voltado para atuação direta em PDVs em Salvador, com o objetivo de contribuir para um aumento de até 20% no volume de vendas nos próximos 3 meses. A comunicação deve ser leve, clara e alinhada ao contexto local, mantendo um tom profissional, sem o uso de gírias ou linguagem inadequada.
+
+Limite:
+Não adicionar novas informações. Realizar apenas melhorias na clareza, organização e fluidez do texto, utilizando uma linguagem leve e descontraída para favorecer um ambiente positivo durante as vendas.
